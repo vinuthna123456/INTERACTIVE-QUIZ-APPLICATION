@@ -30,4 +30,3 @@ In summary, the Quiz Application is a dynamic and flexible platform that caters 
 
 #OUTPUT
 #![Image](https://github.com/user-attahments/assets/bc2c5fc1-b0d8-4f3d-b54a-8830e5c73035)
-
