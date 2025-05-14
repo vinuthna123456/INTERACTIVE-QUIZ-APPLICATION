@@ -20,7 +20,7 @@ One of the key strengths of the quiz application is its intuitive user interface
 
 For educators, the app includes powerful administrative tools to design custom quizzes, set difficulty levels, schedule assessments, and monitor student progress. Results are automatically evaluated, saving time and reducing errors associated with manual grading. Detailed analytics provide insights into user performance, highlighting strengths and areas needing improvement. This feature is especially useful in academic institutions and corporate training environments.
 
-Security and integrity are maintained through timed questions, randomized options, and anti-cheating mechanisms. Admins can also restrict attempts or set pass criteria to ensure fairness. Users earn points, badges, and ranks based on their performance, which adds a gamified aspect to the experience and motivates continuous learning.
+Security and integrity are maintained through timed questions, randomized options, and anti-cheating mechanisms. Admins can also restrict attempts or set pass criteria to ensure fairness. Users earn points, badges, and ranks based on their performance, which adds a gamified aspect to the experience and m![Image](https://github.com/user-attachments/assets/bc2c5fc1-b0d8-4f3d-b54a-8830e5c73035)#otivates continuous learning.
 
 Additionally, the app can be integrated with learning management systems (LMS) and supports push notifications to remind users of upcoming quizzes or share performance updates. Offline access to previously downloaded quizzes is also available, making it accessible in low-connectivity areas.
 
@@ -28,4 +28,5 @@ In terms of technology, the application is built using a robust backend framewor
 
 In summary, the Quiz Application is a dynamic and flexible platform that caters to a broad audience. Whether used in educational institutions, workplaces, or for personal development, it offers a comprehensive solution to test and improve knowledge in an engaging and efficient manner. With its advanced features, ease of use, and wide applicability, it stands out as a modern tool for interactive learning and self-assessment.
 
-
+#OUTPUT
+#![Image](https://github.com/user-attahments/assets/bc2c5fc1-b0d8-4f3d-b54a-8830e5c73035)
