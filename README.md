@@ -6,11 +6,11 @@
 
 *INTERN ID*: CT04DL147
 
-*DOMAIN*: FRONT END DEVELOPMENT
+*DOMAIN*: FRONT END WEB DEVELOPMENT
 
 *DURATION*: 4 WEEKS
 
-*MENTOR*: NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH 
 
 The Quiz Application is an interactive and user-friendly digital platform designed to facilitate learning, assessment, and entertainment through quizzes. It serves as a versatile tool for students, teachers, employers, and individuals who wish to test their knowledge in a variety of subjects. The application offers a wide range of features, from customizable quizzes and performance tracking to gamified learning experiences, making it suitable for both academic and casual use.
 
@@ -27,5 +27,5 @@ Additionally, the app can be integrated with learning management systems (LMS) a
 In terms of technology, the application is built using a robust backend framework with a scalable database that ensures fast and reliable performance. It supports multilingual content, making it inclusive for diverse user bases across different regions.
 
 In summary, the Quiz Application is a dynamic and flexible platform that caters to a broad audience. Whether used in educational institutions, workplaces, or for personal development, it offers a comprehensive solution to test and improve knowledge in an engaging and efficient manner. With its advanced features, ease of use, and wide applicability, it stands out as a modern tool for interactive learning and self-assessment.
-*MENTOR*: NEELA SANTOSH
+
 
