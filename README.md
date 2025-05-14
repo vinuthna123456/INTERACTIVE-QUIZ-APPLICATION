@@ -29,6 +29,7 @@ In terms of technology, the application is built using a robust backend framewor
 In summary, the Quiz Application is a dynamic and flexible platform that caters to a broad audience. Whether used in educational institutions, workplaces, or for personal development, it offers a comprehensive solution to test and improve knowledge in an engaging and efficient manner. With its advanced features, ease of use, and wide applicability, it stands out as a modern tool for interactive learning and self-assessment.
 
 #OUTPUT
+
 ![Screenshot 2025-05-13 210128](https://github.com/user-attachments/assets/1c007fd8-67e2-4725-8b6f-caa5eca37a54)
 
 
